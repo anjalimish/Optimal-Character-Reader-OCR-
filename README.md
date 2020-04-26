@@ -1,2 +1,6 @@
 
-## Optimal Character Reader (OCR) App usong Andrid Studio
+## Optimal Character Reader (OCR) App using Andrid Studio
+
+Prerequisite:
+
+Install Android Studio in your System
